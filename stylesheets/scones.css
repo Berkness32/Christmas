@@ -1,0 +1,22 @@
+html, body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #6B0504;
+    color: #F2BAC9;
+}
+
+h1, h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul {
+    border-bottom: 1px solid #F2BAC9;
+    padding-bottom: 20px;
+}
+
+ol li {
+    padding: 8px 0px;
+    margin-right: 10px;
+    text-align: justify;
+}
+  
